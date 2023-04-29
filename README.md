@@ -1,3 +1,7 @@
+# Archived anonymous ICLR submission, please open any issues at main repository
+This repository was used for our anonymous submission to ICLR. Please see https://github.com/lava-lab/safe-slac to open issues.
+
+
 # Safe Stochastic Latent Actor-Critic in PyTorch
 PyTorch implementation of Safe Stochastic Latent Actor-Critic, built to work with SafetyGym. The implementation is based on Toshiki Watanake's PyTorch implementation of SLAC[1].
 
